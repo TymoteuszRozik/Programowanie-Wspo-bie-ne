@@ -1,0 +1,12 @@
+C:\Users\Tymoteusz\source\repos\ProgramowanieWspolbiezne\RealTimeProgramming\bin\Debug\net8.0\TP.ConcurrentProgramming.RealTimeProgramming.deps.json
+C:\Users\Tymoteusz\source\repos\ProgramowanieWspolbiezne\RealTimeProgramming\bin\Debug\net8.0\TP.ConcurrentProgramming.RealTimeProgramming.dll
+C:\Users\Tymoteusz\source\repos\ProgramowanieWspolbiezne\RealTimeProgramming\bin\Debug\net8.0\TP.ConcurrentProgramming.RealTimeProgramming.pdb
+C:\Users\Tymoteusz\source\repos\ProgramowanieWspolbiezne\RealTimeProgramming\obj\Debug\net8.0\RealTimeProgramming.csproj.AssemblyReference.cache
+C:\Users\Tymoteusz\source\repos\ProgramowanieWspolbiezne\RealTimeProgramming\obj\Debug\net8.0\RealTimeProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tymoteusz\source\repos\ProgramowanieWspolbiezne\RealTimeProgramming\obj\Debug\net8.0\RealTimeProgramming.AssemblyInfoInputs.cache
+C:\Users\Tymoteusz\source\repos\ProgramowanieWspolbiezne\RealTimeProgramming\obj\Debug\net8.0\RealTimeProgramming.AssemblyInfo.cs
+C:\Users\Tymoteusz\source\repos\ProgramowanieWspolbiezne\RealTimeProgramming\obj\Debug\net8.0\RealTimeProgramming.csproj.CoreCompileInputs.cache
+C:\Users\Tymoteusz\source\repos\ProgramowanieWspolbiezne\RealTimeProgramming\obj\Debug\net8.0\TP.ConcurrentProgramming.RealTimeProgramming.dll
+C:\Users\Tymoteusz\source\repos\ProgramowanieWspolbiezne\RealTimeProgramming\obj\Debug\net8.0\refint\TP.ConcurrentProgramming.RealTimeProgramming.dll
+C:\Users\Tymoteusz\source\repos\ProgramowanieWspolbiezne\RealTimeProgramming\obj\Debug\net8.0\TP.ConcurrentProgramming.RealTimeProgramming.pdb
+C:\Users\Tymoteusz\source\repos\ProgramowanieWspolbiezne\RealTimeProgramming\obj\Debug\net8.0\ref\TP.ConcurrentProgramming.RealTimeProgramming.dll

@@ -1,0 +1,12 @@
+C:\Users\Tymoteusz\source\repos\ProgramowanieWspolbiezne\Fundamentals\bin\Debug\net8.0\TP.ConcurrentProgramming.Fundamentals.deps.json
+C:\Users\Tymoteusz\source\repos\ProgramowanieWspolbiezne\Fundamentals\bin\Debug\net8.0\TP.ConcurrentProgramming.Fundamentals.dll
+C:\Users\Tymoteusz\source\repos\ProgramowanieWspolbiezne\Fundamentals\bin\Debug\net8.0\TP.ConcurrentProgramming.Fundamentals.pdb
+C:\Users\Tymoteusz\source\repos\ProgramowanieWspolbiezne\Fundamentals\obj\Debug\net8.0\Fundamentals.csproj.AssemblyReference.cache
+C:\Users\Tymoteusz\source\repos\ProgramowanieWspolbiezne\Fundamentals\obj\Debug\net8.0\Fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tymoteusz\source\repos\ProgramowanieWspolbiezne\Fundamentals\obj\Debug\net8.0\Fundamentals.AssemblyInfoInputs.cache
+C:\Users\Tymoteusz\source\repos\ProgramowanieWspolbiezne\Fundamentals\obj\Debug\net8.0\Fundamentals.AssemblyInfo.cs
+C:\Users\Tymoteusz\source\repos\ProgramowanieWspolbiezne\Fundamentals\obj\Debug\net8.0\Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\Tymoteusz\source\repos\ProgramowanieWspolbiezne\Fundamentals\obj\Debug\net8.0\TP.ConcurrentProgramming.Fundamentals.dll
+C:\Users\Tymoteusz\source\repos\ProgramowanieWspolbiezne\Fundamentals\obj\Debug\net8.0\refint\TP.ConcurrentProgramming.Fundamentals.dll
+C:\Users\Tymoteusz\source\repos\ProgramowanieWspolbiezne\Fundamentals\obj\Debug\net8.0\TP.ConcurrentProgramming.Fundamentals.pdb
+C:\Users\Tymoteusz\source\repos\ProgramowanieWspolbiezne\Fundamentals\obj\Debug\net8.0\ref\TP.ConcurrentProgramming.Fundamentals.dll

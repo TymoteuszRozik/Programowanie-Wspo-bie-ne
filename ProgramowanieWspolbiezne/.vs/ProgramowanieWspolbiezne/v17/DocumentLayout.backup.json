@@ -1,10 +1,55 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Tymoteusz\\source\\repos\\ProgramowanieWspolbiezne\\",
+  "WorkspaceRootPath": "C:\\Users\\tymot\\source\\repos\\Programowanie-Wspo-bie-ne\\ProgramowanieWspolbiezne\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1A1697F-37BD-443D-A3CD-FEAA2B0AA5C0}|ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne.csproj|c:\\users\\tymoteusz\\source\\repos\\programowaniewspolbiezne\\programowaniewspolbiezne\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1A1697F-37BD-443D-A3CD-FEAA2B0AA5C0}|ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne.csproj|solutionrelative:programowaniewspolbiezne\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78FCDE5F-B92B-40EE-A668-8C712E03EC47}|ProgramowanieWspolbiezneTests\\ProgramowanieWspolbiezneTests.csproj|c:\\users\\tymot\\source\\repos\\programowanie-wspo-bie-ne\\programowaniewspolbiezne\\programowaniewspolbieznetests\\ballservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78FCDE5F-B92B-40EE-A668-8C712E03EC47}|ProgramowanieWspolbiezneTests\\ProgramowanieWspolbiezneTests.csproj|solutionrelative:programowaniewspolbieznetests\\ballservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78FCDE5F-B92B-40EE-A668-8C712E03EC47}|ProgramowanieWspolbiezneTests\\ProgramowanieWspolbiezneTests.csproj|c:\\users\\tymot\\source\\repos\\programowanie-wspo-bie-ne\\programowaniewspolbiezne\\programowaniewspolbieznetests\\ballrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78FCDE5F-B92B-40EE-A668-8C712E03EC47}|ProgramowanieWspolbiezneTests\\ProgramowanieWspolbiezneTests.csproj|solutionrelative:programowaniewspolbieznetests\\ballrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78FCDE5F-B92B-40EE-A668-8C712E03EC47}|ProgramowanieWspolbiezneTests\\ProgramowanieWspolbiezneTests.csproj|c:\\users\\tymot\\source\\repos\\programowanie-wspo-bie-ne\\programowaniewspolbiezne\\programowaniewspolbieznetests\\programowaniewspolbieznetests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{78FCDE5F-B92B-40EE-A668-8C712E03EC47}|ProgramowanieWspolbiezneTests\\ProgramowanieWspolbiezneTests.csproj|solutionrelative:programowaniewspolbieznetests\\programowaniewspolbieznetests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E70C75A-E03E-4963-8D14-5BB3E2B7A4C6}|ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne.csproj|c:\\users\\tymot\\source\\repos\\programowanie-wspo-bie-ne\\programowaniewspolbiezne\\programowaniewspolbiezne\\programowaniewspolbiezne.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2E70C75A-E03E-4963-8D14-5BB3E2B7A4C6}|ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne.csproj|solutionrelative:programowaniewspolbiezne\\programowaniewspolbiezne.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E70C75A-E03E-4963-8D14-5BB3E2B7A4C6}|ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne.csproj|c:\\users\\tymot\\source\\repos\\programowanie-wspo-bie-ne\\programowaniewspolbiezne\\programowaniewspolbiezne\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E70C75A-E03E-4963-8D14-5BB3E2B7A4C6}|ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne.csproj|solutionrelative:programowaniewspolbiezne\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E70C75A-E03E-4963-8D14-5BB3E2B7A4C6}|ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne.csproj|c:\\users\\tymot\\source\\repos\\programowanie-wspo-bie-ne\\programowaniewspolbiezne\\programowaniewspolbiezne\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E70C75A-E03E-4963-8D14-5BB3E2B7A4C6}|ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne.csproj|solutionrelative:programowaniewspolbiezne\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E70C75A-E03E-4963-8D14-5BB3E2B7A4C6}|ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne.csproj|c:\\users\\tymot\\source\\repos\\programowanie-wspo-bie-ne\\programowaniewspolbiezne\\programowaniewspolbiezne\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E70C75A-E03E-4963-8D14-5BB3E2B7A4C6}|ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne.csproj|solutionrelative:programowaniewspolbiezne\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78FCDE5F-B92B-40EE-A668-8C712E03EC47}|ProgramowanieWspolbiezneTests\\ProgramowanieWspolbiezneTests.csproj|c:\\users\\tymot\\source\\repos\\programowanie-wspo-bie-ne\\programowaniewspolbiezne\\programowaniewspolbieznetests\\programowaniewspolbieznetests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{78FCDE5F-B92B-40EE-A668-8C712E03EC47}|ProgramowanieWspolbiezneTests\\ProgramowanieWspolbiezneTests.csproj|solutionrelative:programowaniewspolbieznetests\\programowaniewspolbieznetests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E70C75A-E03E-4963-8D14-5BB3E2B7A4C6}|ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne.csproj|c:\\users\\tymot\\source\\repos\\programowanie-wspo-bie-ne\\programowaniewspolbiezne\\programowaniewspolbiezne\\programowaniewspolbiezne.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2E70C75A-E03E-4963-8D14-5BB3E2B7A4C6}|ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne.csproj|solutionrelative:programowaniewspolbiezne\\programowaniewspolbiezne.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78FCDE5F-B92B-40EE-A668-8C712E03EC47}|ProgramowanieWspolbiezneTests\\ProgramowanieWspolbiezneTests.csproj|c:\\users\\tymot\\source\\repos\\programowanie-wspo-bie-ne\\programowaniewspolbiezne\\programowaniewspolbieznetests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78FCDE5F-B92B-40EE-A668-8C712E03EC47}|ProgramowanieWspolbiezneTests\\ProgramowanieWspolbiezneTests.csproj|solutionrelative:programowaniewspolbieznetests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,19 +64,169 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Tymoteusz\\source\\repos\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne\\Program.cs",
-              "RelativeDocumentMoniker": "ProgramowanieWspolbiezne\\Program.cs",
-              "ToolTip": "C:\\Users\\Tymoteusz\\source\\repos\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne\\Program.cs",
-              "RelativeToolTip": "ProgramowanieWspolbiezne\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "BallServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\tymot\\source\\repos\\Programowanie-Wspo-bie-ne\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezneTests\\BallServiceTests.cs",
+              "RelativeDocumentMoniker": "ProgramowanieWspolbiezneTests\\BallServiceTests.cs",
+              "ToolTip": "C:\\Users\\tymot\\source\\repos\\Programowanie-Wspo-bie-ne\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezneTests\\BallServiceTests.cs",
+              "RelativeToolTip": "ProgramowanieWspolbiezneTests\\BallServiceTests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwCEAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T13:39:08.291Z",
+              "WhenOpened": "2025-04-15T19:58:31.202Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProgramowanieWspolbiezne.csproj",
+              "DocumentMoniker": "C:\\Users\\tymot\\source\\repos\\Programowanie-Wspo-bie-ne\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne.csproj",
+              "RelativeDocumentMoniker": "ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne.csproj",
+              "ToolTip": "C:\\Users\\tymot\\source\\repos\\Programowanie-Wspo-bie-ne\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne.csproj",
+              "RelativeToolTip": "ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-15T19:33:02.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AgIAAPcAAAAAAAAAAAAawAkBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-04-15T19:55:00.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Microsoft.NET.Sdk.DefaultItems.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAawIwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-04-15T19:54:13.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProgramowanieWspolbiezneTests",
+              "DocumentMoniker": "C:\\Users\\tymot\\source\\repos\\Programowanie-Wspo-bie-ne\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezneTests\\ProgramowanieWspolbiezneTests.csproj",
+              "RelativeDocumentMoniker": "ProgramowanieWspolbiezneTests\\ProgramowanieWspolbiezneTests.csproj",
+              "ToolTip": "C:\\Users\\tymot\\source\\repos\\Programowanie-Wspo-bie-ne\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezneTests\\ProgramowanieWspolbiezneTests.csproj",
+              "RelativeToolTip": "ProgramowanieWspolbiezneTests\\ProgramowanieWspolbiezneTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-15T19:51:36.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BallRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\tymot\\source\\repos\\Programowanie-Wspo-bie-ne\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezneTests\\BallRepositoryTests.cs",
+              "RelativeDocumentMoniker": "ProgramowanieWspolbiezneTests\\BallRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\tymot\\source\\repos\\Programowanie-Wspo-bie-ne\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezneTests\\BallRepositoryTests.cs",
+              "RelativeToolTip": "ProgramowanieWspolbiezneTests\\BallRepositoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T19:47:41.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\tymot\\source\\repos\\Programowanie-Wspo-bie-ne\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ProgramowanieWspolbiezne\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\tymot\\source\\repos\\Programowanie-Wspo-bie-ne\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne\\AssemblyInfo.cs",
+              "RelativeToolTip": "ProgramowanieWspolbiezne\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T19:55:03.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAEgHAAAAAAAAAAArwGAHAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-04-15T19:51:01.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tymot\\source\\repos\\Programowanie-Wspo-bie-ne\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ProgramowanieWspolbiezne\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\tymot\\source\\repos\\Programowanie-Wspo-bie-ne\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ProgramowanieWspolbiezne\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T19:53:31.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tymot\\source\\repos\\Programowanie-Wspo-bie-ne\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ProgramowanieWspolbiezne\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\tymot\\source\\repos\\Programowanie-Wspo-bie-ne\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne\\App.xaml.cs",
+              "RelativeToolTip": "ProgramowanieWspolbiezne\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T19:52:07.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProgramowanieWspolbiezneTests",
+              "DocumentMoniker": "C:\\Users\\tymot\\source\\repos\\Programowanie-Wspo-bie-ne\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezneTests\\ProgramowanieWspolbiezneTests.csproj",
+              "RelativeDocumentMoniker": "ProgramowanieWspolbiezneTests\\ProgramowanieWspolbiezneTests.csproj",
+              "ToolTip": "C:\\Users\\tymot\\source\\repos\\Programowanie-Wspo-bie-ne\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezneTests\\ProgramowanieWspolbiezneTests.csproj",
+              "RelativeToolTip": "ProgramowanieWspolbiezneTests\\ProgramowanieWspolbiezneTests.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-15T19:51:19.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProgramowanieWspolbiezne",
+              "DocumentMoniker": "C:\\Users\\tymot\\source\\repos\\Programowanie-Wspo-bie-ne\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne.csproj",
+              "RelativeDocumentMoniker": "ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne.csproj",
+              "ToolTip": "C:\\Users\\tymot\\source\\repos\\Programowanie-Wspo-bie-ne\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne.csproj",
+              "RelativeToolTip": "ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-15T19:33:16.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\tymot\\source\\repos\\Programowanie-Wspo-bie-ne\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezneTests\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "ProgramowanieWspolbiezneTests\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\tymot\\source\\repos\\Programowanie-Wspo-bie-ne\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezneTests\\MSTestSettings.cs",
+              "RelativeToolTip": "ProgramowanieWspolbiezneTests\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T19:47:32.459Z",
+              "EditorCaption": ""
             }
           ]
         }

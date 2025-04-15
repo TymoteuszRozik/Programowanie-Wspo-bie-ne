@@ -1,0 +1,5 @@
+C:\Users\tymot\source\repos\Programowanie-Wspo-bie-ne\ProgramowanieWspolbiezne\ProgramowanieWspolbiezne\obj\Debug\net9.0\ProgramowanieWspolbiezne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tymot\source\repos\Programowanie-Wspo-bie-ne\ProgramowanieWspolbiezne\ProgramowanieWspolbiezne\obj\Debug\net9.0\ProgramowanieWspolbiezne.AssemblyInfoInputs.cache
+C:\Users\tymot\source\repos\Programowanie-Wspo-bie-ne\ProgramowanieWspolbiezne\ProgramowanieWspolbiezne\obj\Debug\net9.0\ProgramowanieWspolbiezne.AssemblyInfo.cs
+C:\Users\tymot\source\repos\Programowanie-Wspo-bie-ne\ProgramowanieWspolbiezne\ProgramowanieWspolbiezne\obj\Debug\net9.0\ProgramowanieWspolbiezne.csproj.CoreCompileInputs.cache
+C:\Users\tymot\source\repos\Programowanie-Wspo-bie-ne\ProgramowanieWspolbiezne\ProgramowanieWspolbiezne\obj\Debug\net9.0\ProgramowanieWspolbiezne.sourcelink.json

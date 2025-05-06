@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProgramowanieWspolbiezne")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+846d7654115383677016b2265d4887cddc9e04be")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f96547895c5b1e395663e55136882b181f27b6ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProgramowanieWspolbiezne")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProgramowanieWspolbiezne")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

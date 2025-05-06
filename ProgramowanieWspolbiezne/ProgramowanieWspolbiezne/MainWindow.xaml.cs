@@ -11,13 +11,10 @@ using System.Windows.Shapes;
 
 namespace ProgramowanieWspolbiezne;
 
-/// <summary>
-/// Interaction logic for MainWindow.xaml
-/// </summary>
-public partial class MainWindow : Window  // Must be partial
+public partial class MainWindow : Window 
 {
     public MainWindow()
     {
-        InitializeComponent();  // This is generated automatically
+        InitializeComponent();
     }
 }

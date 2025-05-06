@@ -7,4 +7,8 @@ public interface IBall
     double Diameter { get; }
     double Mass { get; }
     string Color { get; }
+
+    double VelocityX { get; set; }
+    double VelocityY { get; set; }
+    void ApplyForce(double forceX, double forceY);
 }

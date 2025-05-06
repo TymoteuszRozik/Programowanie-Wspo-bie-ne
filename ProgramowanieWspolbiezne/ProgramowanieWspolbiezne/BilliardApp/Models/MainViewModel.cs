@@ -59,7 +59,7 @@ public class MainViewModel : INotifyPropertyChanged
     private void Start()
     {
         Balls.Clear();
-        ballService.CreateBalls(BallCount, 800, 400);
+        ballService.CreateBalls(BallCount, 863, 400);
     
         foreach (var ball in ballService.GetBalls())
         {

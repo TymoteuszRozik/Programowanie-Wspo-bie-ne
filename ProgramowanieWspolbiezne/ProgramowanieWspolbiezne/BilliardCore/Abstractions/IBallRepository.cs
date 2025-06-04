@@ -6,4 +6,5 @@ public interface IBallRepository
     void AddBall(IBall ball);
     void RemoveBall(IBall ball);
     void Clear();
+    void UpdateAllPositions();
 }

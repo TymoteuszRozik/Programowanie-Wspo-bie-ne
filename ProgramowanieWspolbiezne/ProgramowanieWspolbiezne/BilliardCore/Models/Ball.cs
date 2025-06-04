@@ -94,7 +94,6 @@ public class Ball : IBall
     {
         try
         {
-            // Use thread pool to avoid blocking main execution
             ThreadPool.QueueUserWorkItem(_ =>
             {
                 try
@@ -104,14 +103,12 @@ public class Ball : IBall
                 }
                 catch (IOException)
                 {
-                    // Silently handle IO exceptions to not affect ball behavior
                     Debug.WriteLine("Logging delayed due to IO congestion");
                 }
             });
         }
         catch
         {
-            // Ensure logging failures don't affect ball behavior
         }
     }
 }

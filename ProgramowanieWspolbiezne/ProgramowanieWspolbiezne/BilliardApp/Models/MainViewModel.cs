@@ -41,7 +41,6 @@ public class MainViewModel : INotifyPropertyChanged
     {
         _ballService = ballService;
 
-        // Initialize commands with automatic re-evaluation
         StartCommand = new RelayCommand(Start, () => !IsRunning);
         StopCommand = new RelayCommand(Stop, () => IsRunning);
         ToggleCommand = new RelayCommand(Toggle);
@@ -89,7 +88,6 @@ public class MainViewModel : INotifyPropertyChanged
 
     private void OnRenderFrame(object? sender, EventArgs e)
     {
-        // Update all ball positions on UI thread
         foreach (var ballModel in _balls)
         {
             ballModel.Update();

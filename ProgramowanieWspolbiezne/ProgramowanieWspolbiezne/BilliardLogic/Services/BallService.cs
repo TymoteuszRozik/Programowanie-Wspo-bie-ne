@@ -37,7 +37,6 @@ public class BallService : IBallService
                 _updatedBalls.Clear();
                 _ballRepository.UpdateAllPositions();
 
-                // Only handle collisions for balls that might collide
                 var balls = _ballRepository.GetBalls().ToList();
                 HandleWallCollisions(balls);
                 HandleBallCollisions(balls);
@@ -140,7 +139,6 @@ public class BallService : IBallService
 
     private void HandleBallCollisions(IList<IBall> balls)
     {
-        // Spatial partitioning would be better here for large numbers of balls
         for (int i = 0; i < balls.Count; i++)
         {
             for (int j = i + 1; j < balls.Count; j++)

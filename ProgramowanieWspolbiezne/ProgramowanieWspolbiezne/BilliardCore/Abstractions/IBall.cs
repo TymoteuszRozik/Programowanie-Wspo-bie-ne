@@ -14,7 +14,4 @@ public interface IBall
     void Move(double newX, double newY);
     void ApplyForce(double forceX, double forceY);
     void UpdatePosition();
-    public interface IBall
-    DateTime LastLoggedTime { get; }
-    string GetLogEntry();
 }

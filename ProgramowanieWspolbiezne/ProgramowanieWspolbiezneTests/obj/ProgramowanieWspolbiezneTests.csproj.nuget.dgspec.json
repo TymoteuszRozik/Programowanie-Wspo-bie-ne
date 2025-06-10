@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tymot\\source\\repos\\Programowanie-Wspo-bie-ne\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezneTests\\ProgramowanieWspolbiezneTests.csproj": {}
+    "C:\\Users\\Tymoteusz\\Source\\Repos\\Programowanie\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezneTests\\ProgramowanieWspolbiezneTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tymot\\source\\repos\\Programowanie-Wspo-bie-ne\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezneTests\\ProgramowanieWspolbiezneTests.csproj": {
+    "C:\\Users\\Tymoteusz\\Source\\Repos\\Programowanie\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezneTests\\ProgramowanieWspolbiezneTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tymot\\source\\repos\\Programowanie-Wspo-bie-ne\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezneTests\\ProgramowanieWspolbiezneTests.csproj",
+        "projectUniqueName": "C:\\Users\\Tymoteusz\\Source\\Repos\\Programowanie\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezneTests\\ProgramowanieWspolbiezneTests.csproj",
         "projectName": "ProgramowanieWspolbiezneTests",
-        "projectPath": "C:\\Users\\tymot\\source\\repos\\Programowanie-Wspo-bie-ne\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezneTests\\ProgramowanieWspolbiezneTests.csproj",
-        "packagesPath": "C:\\Users\\tymot\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tymot\\source\\repos\\Programowanie-Wspo-bie-ne\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezneTests\\obj\\",
+        "projectPath": "C:\\Users\\Tymoteusz\\Source\\Repos\\Programowanie\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezneTests\\ProgramowanieWspolbiezneTests.csproj",
+        "packagesPath": "C:\\Users\\Tymoteusz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tymoteusz\\Source\\Repos\\Programowanie\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezneTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\tymot\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tymoteusz\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0-windows7.0": {
             "targetAlias": "net9.0-windows7.0",
             "projectReferences": {
-              "C:\\Users\\tymot\\source\\repos\\Programowanie-Wspo-bie-ne\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne.csproj": {
-                "projectPath": "C:\\Users\\tymot\\source\\repos\\Programowanie-Wspo-bie-ne\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne.csproj"
+              "C:\\Users\\Tymoteusz\\Source\\Repos\\Programowanie\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne.csproj": {
+                "projectPath": "C:\\Users\\Tymoteusz\\Source\\Repos\\Programowanie\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne.csproj"
               }
             }
           }
@@ -79,24 +80,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\tymot\\source\\repos\\Programowanie-Wspo-bie-ne\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne.csproj": {
+    "C:\\Users\\Tymoteusz\\Source\\Repos\\Programowanie\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tymot\\source\\repos\\Programowanie-Wspo-bie-ne\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne.csproj",
+        "projectUniqueName": "C:\\Users\\Tymoteusz\\Source\\Repos\\Programowanie\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne.csproj",
         "projectName": "ProgramowanieWspolbiezne",
-        "projectPath": "C:\\Users\\tymot\\source\\repos\\Programowanie-Wspo-bie-ne\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne.csproj",
-        "packagesPath": "C:\\Users\\tymot\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tymot\\source\\repos\\Programowanie-Wspo-bie-ne\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne\\obj\\",
+        "projectPath": "C:\\Users\\Tymoteusz\\Source\\Repos\\Programowanie\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne.csproj",
+        "packagesPath": "C:\\Users\\Tymoteusz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tymoteusz\\Source\\Repos\\Programowanie\\ProgramowanieWspolbiezne\\ProgramowanieWspolbiezne\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\tymot\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tymoteusz\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -105,6 +106,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -147,7 +149,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

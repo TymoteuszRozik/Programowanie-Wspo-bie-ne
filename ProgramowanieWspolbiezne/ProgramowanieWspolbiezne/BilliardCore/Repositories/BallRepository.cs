@@ -12,7 +12,6 @@ public class BallRepository : IBallRepository
 
     public IEnumerable<IBall> GetBalls()
     {
-        // Return a snapshot to avoid concurrent modification issues
         return _balls.Values.ToList().AsReadOnly();
     }
 
@@ -20,7 +19,6 @@ public class BallRepository : IBallRepository
     {
         lock (_modificationLock)
         {
-            // Using ball's position as unique key for demo purposes
             string key = $"{ball.X}_{ball.Y}";
             _balls.TryAdd(key, ball);
         }

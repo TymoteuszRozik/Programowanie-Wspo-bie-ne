@@ -31,7 +31,27 @@ public class BallService : IBallService
 
         _cts = new CancellationTokenSource();
 
+<<<<<<< HEAD
         _gameTimer.Change(TimeSpan.Zero, TimeSpan.FromMilliseconds(32));
+=======
+    private async Task GameLoop(CancellationToken token)
+    {
+        try
+        {
+            while (!token.IsCancellationRequested)
+            {
+                _updatedBalls.Clear();
+                _ballRepository.UpdateAllPositions();
+
+                var balls = _ballRepository.GetBalls().ToList();
+                HandleWallCollisions(balls);
+                HandleBallCollisions(balls);
+
+                await Task.Delay(16, token);
+            }
+        }
+        catch (TaskCanceledException) { }
+>>>>>>> 4a6ed632ff9f3836da2bff7e6a0d8b68caf1268f
     }
 
     public void StopMovement()

@@ -20,47 +20,54 @@ public class BallService : IBallService
     public BallService(IBallRepository ballRepository)
     {
         _ballRepository = ballRepository;
+        _gameTimer = new Timer(GameTick, null, Timeout.Infinite, Timeout.Infinite);
     }
+
+    private Timer _gameTimer;
 
     public void StartMovement()
     {
+        StopMovement();
+
         _cts = new CancellationTokenSource();
-        Task.Run(() => GameLoop(_cts.Token));
-    }
 
-    private async Task GameLoop(CancellationToken token)
-    {
-        try
-        {
-            while (!token.IsCancellationRequested)
-            {
-                _updatedBalls.Clear();
-                _ballRepository.UpdateAllPositions();
-
-                // Only handle collisions for balls that might collide
-                var balls = _ballRepository.GetBalls().ToList();
-                HandleWallCollisions(balls);
-                HandleBallCollisions(balls);
-
-                await Task.Delay(16, token);
-            }
-        }
-        catch (TaskCanceledException) { }
+        _gameTimer.Change(TimeSpan.Zero, TimeSpan.FromMilliseconds(32));
     }
 
     public void StopMovement()
     {
+        _cts?.Cancel();
+        _cts?.Dispose();
+        _cts = null;
+        _gameTimer.Change(Timeout.Infinite, Timeout.Infinite);
+    }
+
+    private void GameTick(object state)
+    {
+        if (_cts?.IsCancellationRequested ?? true)
+            return;
+
         try
         {
-            _cts?.Cancel();
-            _cts?.Dispose();
-            _cts = null;
+            _updatedBalls.Clear();
+            _ballRepository.UpdateAllPositions();
+
+            var balls = _ballRepository.GetBalls().ToList();
+            HandleWallCollisions(balls);
+            HandleBallCollisions(balls);
         }
         catch (Exception ex)
         {
-            Console.WriteLine($"Error stopping movement: {ex.Message}");
+            StopMovement();
         }
     }
+
+    public void Dispose()
+    {
+        StopMovement();
+        _gameTimer?.Dispose();
+    }
+
 
     private void HandleWallCollisions(IList<IBall> balls)
     {
@@ -140,7 +147,6 @@ public class BallService : IBallService
 
     private void HandleBallCollisions(IList<IBall> balls)
     {
-        // Spatial partitioning would be better here for large numbers of balls
         for (int i = 0; i < balls.Count; i++)
         {
             for (int j = i + 1; j < balls.Count; j++)

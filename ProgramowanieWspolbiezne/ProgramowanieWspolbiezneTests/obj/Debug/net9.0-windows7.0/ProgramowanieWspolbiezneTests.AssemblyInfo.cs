@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProgramowanieWspolbiezneTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa43bfef9be75af624cbf66bd048fccc5a3d4f40")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8dce99b82b9bfe5f9397ebca7f327cd54ac88d54")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProgramowanieWspolbiezneTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProgramowanieWspolbiezneTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

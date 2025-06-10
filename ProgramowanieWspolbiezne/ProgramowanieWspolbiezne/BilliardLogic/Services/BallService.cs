@@ -16,6 +16,7 @@ public class BallService : IBallService
     private const double Restitution = 1;
     private CancellationTokenSource _cts;
     private readonly ConcurrentBag<IBall> _updatedBalls = new();
+    private Timer _gameTimer;
 
     public BallService(IBallRepository ballRepository)
     {
@@ -23,35 +24,13 @@ public class BallService : IBallService
         _gameTimer = new Timer(GameTick, null, Timeout.Infinite, Timeout.Infinite);
     }
 
-    private Timer _gameTimer;
-
     public void StartMovement()
     {
         StopMovement();
 
         _cts = new CancellationTokenSource();
 
-<<<<<<< HEAD
         _gameTimer.Change(TimeSpan.Zero, TimeSpan.FromMilliseconds(32));
-=======
-    private async Task GameLoop(CancellationToken token)
-    {
-        try
-        {
-            while (!token.IsCancellationRequested)
-            {
-                _updatedBalls.Clear();
-                _ballRepository.UpdateAllPositions();
-
-                var balls = _ballRepository.GetBalls().ToList();
-                HandleWallCollisions(balls);
-                HandleBallCollisions(balls);
-
-                await Task.Delay(16, token);
-            }
-        }
-        catch (TaskCanceledException) { }
->>>>>>> 4a6ed632ff9f3836da2bff7e6a0d8b68caf1268f
     }
 
     public void StopMovement()
